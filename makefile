@@ -1,2 +1,2 @@
 all:
-	g++ -w -o des main.cpp -lm
+	g++ main.cpp functions.cpp -w -o des
